@@ -1,0 +1,6 @@
+D:\WSB\Programowanie Obiektowe - Głuszek\WSBLab\bin\Debug\WSBLab.exe.config
+D:\WSB\Programowanie Obiektowe - Głuszek\WSBLab\bin\Debug\WSBLab.exe
+D:\WSB\Programowanie Obiektowe - Głuszek\WSBLab\bin\Debug\WSBLab.pdb
+D:\WSB\Programowanie Obiektowe - Głuszek\WSBLab\obj\Debug\WSBLab.csprojAssemblyReference.cache
+D:\WSB\Programowanie Obiektowe - Głuszek\WSBLab\obj\Debug\WSBLab.exe
+D:\WSB\Programowanie Obiektowe - Głuszek\WSBLab\obj\Debug\WSBLab.pdb
